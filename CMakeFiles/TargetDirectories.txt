@@ -1,0 +1,8 @@
+/mnt/c/Users/tyfe1/Projetos/lang_it_compiler/CMakeFiles/LangItCompiler.dir
+/mnt/c/Users/tyfe1/Projetos/lang_it_compiler/CMakeFiles/test.dir
+/mnt/c/Users/tyfe1/Projetos/lang_it_compiler/CMakeFiles/edit_cache.dir
+/mnt/c/Users/tyfe1/Projetos/lang_it_compiler/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/tyfe1/Projetos/lang_it_compiler/CMakeFiles/list_install_components.dir
+/mnt/c/Users/tyfe1/Projetos/lang_it_compiler/CMakeFiles/install.dir
+/mnt/c/Users/tyfe1/Projetos/lang_it_compiler/CMakeFiles/install/local.dir
+/mnt/c/Users/tyfe1/Projetos/lang_it_compiler/CMakeFiles/install/strip.dir

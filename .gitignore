@@ -1,0 +1,12 @@
+/build/
+/bin/
+/out/
+/cmake-build-*/
+
+*.o
+*.obj
+*.exe
+*.out
+*.app
+compiler
+compiler.exe
